@@ -1,0 +1,16 @@
+body{
+  background-color: orange;
+  text-align: center;
+  font-family: verdana;
+  color: white;
+}
+
+
+p2,p4,p6,p8{
+  font-style: italic;
+}
+
+img{
+  height: 40%;
+  width: 40%;
+}
